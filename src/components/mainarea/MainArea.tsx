@@ -9,7 +9,7 @@ const MainArea: React.FC = () => {
       <h2>Üdvözöljük a fő területen!</h2>
       <p>
         Itt jelenik meg a kiválasztott menü tartalma. - ezt a szöveget PC-n
-        írtam!
+        írtam! - ezt pedig Mac-en
       </p>
     </div>
   );
