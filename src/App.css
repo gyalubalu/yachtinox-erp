@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.container-fluid {
+  height: 100vh; /* Az oldal teljes magasságát elfoglalja */
+}
+
+.col-auto {
+  background-color: #f8f9fa; /* A Sidebar háttérszíne */
+}
+
+.col {
+  background-color: #ffffff; /* A MainArea háttérszíne */
+}
