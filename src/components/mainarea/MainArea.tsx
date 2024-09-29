@@ -7,7 +7,10 @@ const MainArea: React.FC = () => {
       <TopBar />
       <SecondaryMenu />
       <h2>Üdvözöljük a fő területen!</h2>
-      <p>Itt jelenik meg a kiválasztott menü tartalma.</p>
+      <p>
+        Itt jelenik meg a kiválasztott menü tartalma. - ezt a szöveget PC-n
+        írtam!
+      </p>
     </div>
   );
 };
